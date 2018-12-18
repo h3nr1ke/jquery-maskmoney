@@ -14,7 +14,7 @@
     }
   ],
   "dependencies": {
-    "jquery": "latest"
+    "jquery": "^3.3.1"
   },
   "description": "jQuery plugin to mask data entry in the input text in the form of money (currency)",
   "keywords": [
