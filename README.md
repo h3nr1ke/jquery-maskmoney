@@ -75,7 +75,6 @@ To run our test suite, just clone the repo and open `test/index.html`. If you wa
 
 ```
 npm install
-bower install
 grunt test
 ```
 
